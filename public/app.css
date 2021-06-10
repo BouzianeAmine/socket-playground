@@ -1,0 +1,17 @@
+#messages {
+    
+}
+
+#messages label {
+    color: white;
+    background: rgba(30,30,50, 0.5);
+}
+
+#messageForm {
+    display: block;
+}
+
+.inline-shit {
+    display: flex;
+    flex-direction: row;
+}
